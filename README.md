@@ -1,5 +1,7 @@
-# Innovacion
-estudio primario de mercado 
+# Energía Limpias y Accesibles
+Jesus Miguel Serna Quispe (PDI= profesional disciplinado)
+Daniel Quiros Martinez 
+
 # Descripción del tema abordado
 El tema de electricidad en la actualidad es importante ya que con eso viajamos, cocinamos, nos duchamos, encendemos la calefacción, navegamos por internet, etc.
 Nuestras vidas no serían posible sin el uno de energía, y a pesar de los avances aún faltan esfuerzos para lograr que la energía que usamos sea sostenible, no contaminante y accesible para todas las personas.
