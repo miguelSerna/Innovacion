@@ -10,7 +10,24 @@ El propósito del estudio es conocer a nuestro futuros clientes que sufren de el
 # Identification de personas, expertos y escenarios análogos
 Las personas identificadas fueron en las zonas andinas de peru, y se les envio las encuestas a amigos, familiares para que pudieran llegar a las personas identificadas y que pudieran realizar la encuesta. Así para poder saber su situación con respecto a la electricidad.
 Y estas fueron las preguntas que se les envio.
-<blockquote class="imgur-embed-pub" lang="en" data-id="MILcJGH"><a href="//imgur.com/MILcJGH">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+# Presentación de las preguntas de la encuesta
+[Imgur](https://i.imgur.com/MILcJGH.jpg)
+[Imgur](https://i.imgur.com/FtLMeTV.jpg)
 
+Por otra parte, el experto Andrés Emiro Diez nos hablo un poco más sobre las energías para poder entender sobre cuanto mas podremos utilizar el petróleo como energía. Y que las fuentes de energía renovable ahora son más sonadas y utilizadas en los últimos años.
+
+# Resultados más importantes de la encuesta
+
+los resultados más importantes que resaltan son la falta de energía que tienen las personas encuestadas
+[Imgur](https://i.imgur.com/LgjHrbt.jpg)
+Y también las personas expresaron que les vendría super ventajoso tener energía eléctrica
+[Imgur](https://i.imgur.com/3kZ3cgy.jpg)
+# Proceso de Síntesis: detalle de las 3 a 5 ideas identificadas con título
+https://app.mural.co/t/miguelserna2124/m/miguelserna2124/1598886895924/51b038ec45e5dd33a7dd250f136b3492c3187ab9
+
+# Proceso de Síntesis: detalle de los desafíos, situaciones problemas identificados
+El problema principal es que aun existen personas sin energía eléctrica para su iluminación y además como se encuentran en las zonas andinas de Perú también esta su situación económica para pagar los costes de la energía y unos de los desafíos serie en estado económico de ellas si pudiéramos llevarles energía en todo caso.
+# Proceso de Síntesis: ¿Qué incluirá en su próximo estudio de mercado?
+Y para un próximo estudio de mercado estaríamos implementando encuestas para saber si están en la posibilidad de pagar una energía independiente si es renovable o no.
 
 
