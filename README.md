@@ -10,8 +10,7 @@ El propósito del estudio es conocer a nuestro futuros clientes que sufren de el
 # Identification de personas, expertos y escenarios análogos
 Las personas identificadas fueron en las zonas andinas de peru, y se les envio las encuestas a amigos, familiares para que pudieran llegar a las personas identificadas y que pudieran realizar la encuesta. Así para poder saber su situación con respecto a la electricidad.
 Y estas fueron las preguntas que se les envio.
-[img]https://i.imgur.com/MILcJGH.jpg[/img]
-
+<blockquote class="imgur-embed-pub" lang="en" data-id="MILcJGH"><a href="//imgur.com/MILcJGH">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 
 
